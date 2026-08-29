@@ -1,0 +1,346 @@
+[
+  {
+    "slug": "flat-tire-repair",
+    "title": "Flat Tire Repair",
+    "category": "Tires",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 30,
+    "summary": "Remove the wheel, find and fix the puncture, and get rolling again.",
+    "toolsRequired": ["Tire levers", "Pump or CO2 inflator", "Patch kit or spare tube", "Wrench (if not quick-release)"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Shift to the smallest rear cog/chainring combo to slacken the chain, then remove the wheel. If it's a hub-motor wheel, disconnect the motor cable connector first."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Fully deflate the tire, then work one side of the tire bead off the rim with tire levers, starting opposite the valve."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Pull out the inner tube, leaving the other side of the tire still seated on the rim."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Inspect the inside of the tire for the object that caused the puncture (thorn, glass, wire) and remove it. Run a finger carefully around the inside to check for other sharp edges."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Patch the tube (rough up the area, apply patch cement, press the patch on and hold) or swap in a new/spare tube."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Partially inflate the tube just enough to hold its shape, tuck it inside the tire, and work the bead back onto the rim by hand — use levers only as a last resort to avoid pinching the tube."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Inflate to the pressure printed on the tire sidewall, reinstall the wheel (reconnect the motor cable if applicable), and spin it to confirm it's true and doesn't rub anywhere."
+      }
+    ]
+  },
+  {
+    "slug": "brake-pad-replacement",
+    "title": "Brake Pad Replacement",
+    "category": "Brakes",
+    "difficulty": "intermediate",
+    "estimatedTimeMinutes": 25,
+    "summary": "Swap worn disc brake pads before they wear down to the metal backing.",
+    "toolsRequired": ["Hex wrench set", "Needle-nose pliers", "Isopropyl alcohol", "Clean rag", "New brake pads"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Remove the wheel next to the brake you're servicing."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Remove the small retaining pin or clip from the caliper and slide out the worn pads."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Check pad thickness — replace if less than about 1mm of friction material remains."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Use a plastic tire lever or dedicated pad-spacer tool to gently push the caliper pistons back, making room for the new, thicker pads."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Wipe the pistons and caliper clean with isopropyl alcohol. Avoid getting any oil or grease on the pads or rotor."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Slide the new pads into the caliper and reinsert the retaining pin or clip."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Reinstall the wheel, then squeeze the brake lever several times before riding to reseat the pistons against the new pads."
+      },
+      {
+        "stepNumber": 8,
+        "instruction": "Test the brake at low speed in a safe area before riding normally."
+      }
+    ]
+  },
+  {
+    "slug": "chain-cleaning-lube",
+    "title": "Chain Cleaning & Lubrication",
+    "category": "Drivetrain",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 20,
+    "summary": "A clean, well-lubed chain shifts better and lasts much longer.",
+    "toolsRequired": ["Chain cleaning tool or old brush", "Degreaser", "Clean rags", "Bike-specific chain lubricant"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Shift to the middle of the cassette so the chain is easy to access."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Apply degreaser to a rag or chain-cleaning tool and run the chain through it several times while backpedaling."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Wipe down the cassette and chainrings with a rag to remove built-up grime."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Wipe off residual degreaser with a damp rag — avoid spraying a hose directly at hub or motor bearings."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Let the chain dry completely before lubricating."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Apply one drop of lubricant to each roller while slowly backpedaling."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Let the lube penetrate for a few minutes, then wipe off all excess from the outside of the chain — excess lube just attracts dirt."
+      }
+    ]
+  },
+  {
+    "slug": "basic-battery-care",
+    "title": "Basic Battery Care",
+    "category": "Battery",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 10,
+    "summary": "Simple habits that keep your e-bike battery healthy for longer.",
+    "toolsRequired": ["Soft cloth"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "For day-to-day storage, keep the charge roughly between 20% and 80% rather than leaving it fully depleted or fully charged for long periods."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Store the battery somewhere cool and dry — avoid direct sun and freezing temperatures during extended storage."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Periodically wipe the battery contacts and mounting rails with a dry cloth to prevent corrosion or a poor connection."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Charge using only the charger supplied or specified by the bike's manufacturer."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "If the bike will sit unused for more than a few weeks, charge the battery to roughly 50–60% first rather than storing it full or empty."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Stop using the battery immediately and have it inspected if you notice swelling, unusual heat, or a strange smell."
+      }
+    ]
+  },
+  {
+    "slug": "motor-error-code-troubleshooting",
+    "title": "Motor Error Code Troubleshooting",
+    "category": "Motor",
+    "difficulty": "intermediate",
+    "estimatedTimeMinutes": 15,
+    "summary": "First checks to run before assuming the motor system needs a technician.",
+    "toolsRequired": ["Bike's manual or error-code reference", "Manufacturer's companion app (if available)"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Note the exact error code shown on the display — the specific number or letter combination matters, not just that an error appeared."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Power the system fully off and back on. Many transient errors, like a momentary sensor glitch, clear after a simple restart."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Check that the battery is properly seated with clean, dry contacts — a poor connection is a very common cause of 'communication error' codes."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Inspect the motor and speed-sensor cable connectors for dirt, moisture, or a partially unplugged connector."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Look up the specific code in the manufacturer's documentation or app — codes vary significantly between motor systems."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "If the error persists after these checks, avoid continuing to use the motorized assist and have the system inspected by a qualified e-bike technician — motor and controller faults can be electrically hazardous to diagnose further yourself."
+      }
+    ]
+  },
+  {
+    "slug": "derailleur-adjustment",
+    "title": "Derailleur Adjustment",
+    "category": "Drivetrain",
+    "difficulty": "intermediate",
+    "estimatedTimeMinutes": 20,
+    "summary": "Fix sluggish, hunting, or noisy shifting with a limit-screw and cable-tension check.",
+    "toolsRequired": ["Small screwdriver (for limit screws)", "Hex wrench (for cable pinch bolt)", "Bike stand or way to lift the rear wheel"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Lift or support the rear wheel so it can spin freely, and shift to the smallest rear cog."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Check the high-limit screw (usually marked H) — the derailleur should line up directly under the smallest cog. Adjust the screw if the chain rubs or won't reach it."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Shift to the largest rear cog and check the low-limit screw (marked L) similarly, making sure the chain can't jump off into the spokes."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "If shifting is sluggish or hunts between gears, adjust the barrel adjuster on the derailleur or shifter in small quarter-turn increments while pedaling and shifting."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Turn the adjuster to add cable tension if the chain hesitates to shift to a larger cog, or release tension if it overshoots."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Recheck shifting across the full range of gears, fine-tuning until each shift is quick and quiet."
+      }
+    ]
+  },
+  {
+    "slug": "tire-pressure-check",
+    "title": "Tire Pressure Check",
+    "category": "Tires",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 5,
+    "summary": "A quick habit that improves both ride comfort and rolling efficiency.",
+    "toolsRequired": ["Pressure gauge (or one built into a pump)", "Pump"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Find the recommended pressure range printed on the tire's sidewall (in PSI and/or bar)."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Remove the valve cap and press the gauge firmly onto the valve to get a reading."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Compare the reading to the recommended range — lean toward the higher end for pavement and efficiency, somewhat lower (within range) for off-road grip."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Add air with a pump if low, checking the gauge periodically as you go."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "If overinflated, briefly press the small pin inside the valve to release a little air, then recheck."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Replace the valve cap to keep dirt out."
+      }
+    ]
+  },
+  {
+    "slug": "drivetrain-cleaning",
+    "title": "Full Drivetrain Cleaning",
+    "category": "Drivetrain",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 30,
+    "summary": "A deeper clean covering the cassette, chainrings, and jockey wheels, not just the chain.",
+    "toolsRequired": ["Degreaser", "Stiff-bristle brush", "Cassette brush (or old toothbrush)", "Rags", "Chain lube"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Shift into an easy-to-access middle gear."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Apply degreaser across the cassette, chainrings, derailleur jockey wheels, and chain."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Use a stiff brush to work degreaser into the gaps between cassette cogs and around the jockey wheels, where grime builds up most."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "Wipe everything down with a clean rag, repeating with fresh degreaser on especially dirty spots."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Rinse with a damp (not high-pressure) rag to remove residual degreaser."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "Dry thoroughly, then relubricate the chain (see the Chain Cleaning & Lubrication guide)."
+      },
+      {
+        "stepNumber": 7,
+        "instruction": "Spin the pedals and shift through the gears to confirm smooth, quiet operation."
+      }
+    ]
+  },
+  {
+    "slug": "light-display-troubleshooting",
+    "title": "Light & Display Troubleshooting",
+    "category": "Electrical",
+    "difficulty": "beginner",
+    "estimatedTimeMinutes": 10,
+    "summary": "Quick checks before assuming a light or display unit has actually failed.",
+    "toolsRequired": ["Dry cloth"],
+    "source": "bundled",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "instruction": "Confirm the main battery has sufficient charge — a low battery can make displays or lights behave erratically or shut off."
+      },
+      {
+        "stepNumber": 2,
+        "instruction": "Check that all visible cable connectors to the display and lights are firmly seated and free of corrosion or moisture."
+      },
+      {
+        "stepNumber": 3,
+        "instruction": "Power-cycle the system (fully off, wait a few seconds, then back on) to clear a possible display glitch."
+      },
+      {
+        "stepNumber": 4,
+        "instruction": "If a light doesn't turn on, check whether it has its own separate battery or fuse, and confirm the bulb or LED unit isn't visibly damaged."
+      },
+      {
+        "stepNumber": 5,
+        "instruction": "Check the display for a specific error code and cross-reference the manufacturer's manual."
+      },
+      {
+        "stepNumber": 6,
+        "instruction": "If the issue persists after these checks, treat it as an electrical fault needing professional diagnosis rather than continuing to force resets."
+      }
+    ]
+  }
+]
