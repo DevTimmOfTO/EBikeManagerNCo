@@ -1,17 +1,29 @@
-# ebikemanager
+# EBikeManagerNCo
 
-A new Flutter project.
+Local-only Android-Begleit-App fürs E-Bike: Trip-Tracking, Batterie-Historie, Reparaturguides und Stellplatz-Erinnerung — alles offline, ohne Cloud-Zwang.
+
+## Features
+
+- **Dashboard** — Überblick über dein E-Bike auf einen Blick
+- **Trips** — Fahrten manuell erfassen oder über Health Connect synchronisieren (Distanz, Dauer, Ø-Geschwindigkeit, Höhenmeter, Kalorien, Herzfrequenz), inkl. Streckenverlauf auf der Karte
+- **Batterie-Historie** — Ladezyklen, Gesundheitschecks und geschätzter Akkuzustand über die Zeit (Verlauf als Chart)
+- **Reparaturguides** — gebündelte Schritt-für-Schritt-Anleitungen für gängige E-Bike-Reparaturen
+- **Parkposition** — letzten Standort deines Bikes merken und wiederfinden
+- **Mehrere Bikes** — Verwaltung mehrerer Räder mit eigenen Stammdaten (Motor, Akku, ADFC-Codierung, Fotos)
+
+## Tech Stack
+
+Flutter, Riverpod, go_router, Drift (SQLite), flutter_map (OSM), Health Connect via `health`-Package. Details siehe [`EBikeManagerNCo-TODO.md`](EBikeManagerNCo-TODO.md).
+
+## Status
+
+In aktiver Entwicklung. Alle Daten bleiben lokal auf dem Gerät.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Benötigt Android (compileSdk 37) und optional Health Connect für automatischen Trip-Sync.
